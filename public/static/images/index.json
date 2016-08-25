@@ -1,8 +1,8 @@
 {
     "files": "**/*.gif",
     "images": {
-		"thisis": {"category": "aaexodo"},
-		"roto2pun": {"category": "aaexodo"},
+	"thisis": {"category": "aaexodo"},
+	"roto2pun": {"category": "aaexodo"},
         "qmeparto": {"category": "aaexodo"},
         "facepalm": {"category": "aaexodo"},
         "roto2": {"category": "aaexodo"},
@@ -129,8 +129,8 @@
         "ahsisi": {"category": "aaexodo"},
         "bored": {"category": "aaexodo"},
         "drawer": {"category": "aaexodo"},
-        "hyperclap": {"category": "aaexodo"}
-        "loudnigra": {"category": "aaexodo"},
+        "hyperclap": {"category": "aaexodo"},
+        "loudnigra": {"category": "aaexodo"}
 
     }
 }
